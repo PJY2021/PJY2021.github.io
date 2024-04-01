@@ -27,5 +27,5 @@ tags: []
 
 ### 发明创造名称:**无机超离子导体材料及其制备方法和应用、无机固态电解质膜和锂电池**
 
-> 由ChatGPT 4.0翻译/Translated by ChatGPT 4.0
+> Translated by ChatGPT 4.0/部分内容由ChatGPT 4.0翻译
 {: .prompt-tip }
