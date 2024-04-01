@@ -1,7 +1,7 @@
 ---
 title: Lithium Deposition Mechanism on Si and Cu Substrates:A Study in Carbonate Electrolyte
 date: 2022-10-26 00:00:00 +/-0800
-categories: [Research, Energy and Environmental Science]
+categories: [Research]
 tags: [lithium deposition, carbonate electrolyte, silicon substrate, copper substrate, lithium-ion batteries, lithium metal batteries]    
  # TAG names should always be lowercase
 ---
@@ -33,3 +33,6 @@ Electrochemical Li deposition occurs in fast-charging Li-ion batteries and Li me
 ### 摘要：  
 
 在快速充电的锂离子电池和锂金属电池中会发生电化学锂沉积。锂沉积物的形态决定了沉积/剥离反应的可逆性，并影响内部短路的倾向，从而决定了锂离子和锂金属电池的性能和安全性。已经观察到许多不同的形态，包括半球形、颗粒状、柱状、须状和树枝状。然而，锂沉积物如何成长为不同形态在很大程度上仍然是一个谜。在这项工作中，我们通过结合电子成像、光学成像、分子动力学模拟和电化学测试与理论分析，揭示了在商用碳酸盐电解液中锂在硅和铜基底上的生长机制。通过比较不同电流、容量和温度下锂沉积物的图像，分析了锂的生长动力学。对于硅基底，发现了一种几乎不受电流密度影响的3D-2D生长机制。对于铜基底，在准平衡条件下生长遵循3D-2D机制，但在高电流密度下转变为不同的机制，其中1D锂须从锂岛上生长出来。量化了两种基底上须状生长的倾向及其对电流密度的依赖性。研究发现，所有铜基底上的锂沉积物在超过一个临界电流密度（Jw = 0.79 ± 0.10 mA cm−2）时都会变成须状，而硅基底的Jw要大得多（>10 mA cm−2），导致几乎不形成须状。此外，确定了须状生长、库仑效率和内部短路倾向之间的相关性。基于这项工作的结果和关于锂沉积的最新发现，全面讨论了成核和生长机制以及形态之间的转变。
+
+> 由ChatGPT 4.0翻译/Translated by ChatGPT 4.0
+{: .prompt-tip }

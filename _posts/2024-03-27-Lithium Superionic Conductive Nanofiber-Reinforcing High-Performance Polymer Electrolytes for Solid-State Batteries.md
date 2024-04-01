@@ -1,7 +1,7 @@
 ---
 title: Lithium Superionic Conductive Nanofiber-Reinforcing High-Performance Polymer Electrolytes for Solid-State Batteries
 date: 2024-03-27 00:00:00 +/-0800
-categories: [Research, Energy and Environmental Science]
+categories: [Research]
 tags: [lithium deposition, carbonate electrolyte, silicon substrate, copper substrate, lithium-ion batteries, lithium metal batteries]    
  # TAG names should always be lowercase
 ---
@@ -33,3 +33,6 @@ Although composite solid-state electrolytes (CSEs) are considered promising ioni
 ### 摘要：  
 
 尽管复合固态电解质（CSEs）被认为是高能锂金属电池的有前景的离子导体，但它们不满意的离子导电性、低机械强度、差热稳定性和狭窄的电压窗口限制了它们的实际应用。我们已经制备了一种具有超长纳米纤维结构和超高室温离子导电性（12.6 mS cm–1）的新型锂超离子导体（Li-HA-F）。当它直接与典型的聚（乙烯醚）基固态电解质结合时，Li-HA-F纳米纤维赋予所得CSE高离子导电性（30 °C时为4.0 × 10–4 S cm–1）、大的Li+迁移数（0.66）和宽电压窗口（5.2 V）。详细的实验和理论计算揭示，Li-HA-F提供了连续的双导电路径，并导致稳定的富LiF界面，从而实现了其卓越的性能。此外，Li-HA-F纳米纤维增强的CSE表现出良好的耐热/耐火性和灵活性，具有高断裂强度（9.66 MPa）。结果，使用Li-HA-F CSE制备的Li/Li半电池展示了超过2000小时的良好稳定性，具有高临界电流密度1.4 mA cm–2。此外，LiFePO4/Li-HA-F CSE/Li和LiNi0.8Co0.1Mn0.1O2/Li-HA-F CSE/Li固态电池在宽温度范围内提供了高可逆容量和良好的循环性能。
+
+> 由ChatGPT 4.0翻译/Translated by ChatGPT 4.0
+{: .prompt-tip }
