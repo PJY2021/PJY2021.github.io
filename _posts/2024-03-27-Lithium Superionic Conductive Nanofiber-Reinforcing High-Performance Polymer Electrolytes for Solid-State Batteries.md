@@ -2,7 +2,7 @@
 title: Lithium Superionic Conductive Nanofiber-Reinforcing High-Performance Polymer Electrolytes for Solid-State Batteries
 date: 2024-03-27 00:00:00 +/-0800
 categories: [Research]
-tags: [lithium deposition, carbonate electrolyte, silicon substrate, copper substrate, lithium-ion batteries, lithium metal batteries]    
+tags: [solid-state battery, polymer electrolyte, lithium superionic conductor, nanofiber]    
  # TAG names should always be lowercase
 ---
 

@@ -2,7 +2,7 @@
 title: Lithium Deposition Mechanism on Si and Cu Substrates:A Study in Carbonate Electrolyte
 date: 2022-10-26 00:00:00 +/-0800
 categories: [Research]
-tags: [lithium deposition, carbonate electrolyte, silicon substrate, copper substrate, lithium-ion batteries, lithium metal batteries]    
+tags: [lithium deposition, silicon substrate, copper substrate, carbonate electrolyte]    
  # TAG names should always be lowercase
 ---
 

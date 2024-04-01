@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Jiaying Peng, currently studying for PhD degree at Beijing University of Chemical Technology, under Wang Feng's supervisor, research interests include electrochemistry, electrocatalysis, solid state electrolyte
+Jiaying Peng, currently studying for PhD degree at Beijing University of Chemical Technology, under [Wang Feng](https://cmse.buct.edu.cn/2020/1102/c8340a136126/page.htm)'s supervisor, research interests include electrochemistry, electrocatalysis, solid state electrolyte
 
 ### Education Background
 
@@ -18,7 +18,7 @@ Thank you for visiting my personal page, if you are interested in my research or
 
 ## 个人简介
 
-彭嘉莹，目前在北京化工大学攻读博士研究生学位，导师为[王峰](https://cmse.buct.edu.cn/2020/1102/c8340a136126/page.htm)，研究兴趣包括电化学、电催化、固态电解质
+彭嘉莹，目前在北京化工大学攻读博士研究生学位，导师为[王峰](https://cmse.buct.edu.cn/2020/1102/c8340a136126/page.htm)教授，研究兴趣包括电化学、电催化、固态电解质
 
 ### 教育经历
 
