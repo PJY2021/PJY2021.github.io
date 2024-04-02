@@ -1,8 +1,13 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Jiaying Peng's Homepage
+date: 2022-09-01 00:00:00 +/-0800
+categories: []
+tags: [] 
+pin: True
+
 ---
+
+### About me 
 
 Jiaying Peng(彭嘉莹 in Chinese), currently studying for PhD degree at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), under [Feng Wang](https://cmse.buct.edu.cn/2020/1102/c8340a136126/page.htm)'s supervisor.
 
@@ -33,7 +38,3 @@ Research interests include:
 - [J. Mater. Chem. A] October 2022: An interface-enhanced continuous 2D-carbon network enabling high-performance Si anodes for Li-ion batteries.
 
 ### Scholarship
-
-
-> Technical Support: Kyle
-{: .prompt-tip }

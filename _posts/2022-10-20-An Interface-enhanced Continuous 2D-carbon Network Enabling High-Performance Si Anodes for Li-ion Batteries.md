@@ -1,5 +1,5 @@
 ---
-title: Interface-enhanced Continuous 2D-carbon Network Enabling High-Performance Si Anodes for Li-ion Batteries
+title: An Interface-enhanced Continuous 2D-carbon Network Enabling High-Performance Si Anodes for Li-ion Batteries
 date: 2022-10-20 00:00:00 +/-0800
 categories: [Research]
 tags: [silicon anode, lithium ion battery, carbon network] 
