@@ -5,6 +5,9 @@ categories: [Patent]
 tags: [] 
  # TAG names should always be lowercase
 ---
+
+***
+
 ### Application Number: **2023111750208**
 
 ### Application Date: **September 12, 2023**  
@@ -27,5 +30,9 @@ tags: []
 
 ### 发明创造名称:**无机超离子导体材料及其制备方法和应用、无机固态电解质膜和锂电池**
 
-> Translated by ChatGPT 4.0/部分内容由ChatGPT 4.0翻译
-{: .prompt-tip }
+***
+
+> **Please Note:**Before commenting, review the DECLAEATION in the [[ABOUT]](/about/) section (highlighted in red). By commenting, you agree to these terms. Thank you for your cooperation and understanding.
+>
+> **请注意：**发表评论前，请先阅读[[ABOUT]](/about/)部分中的红色高亮声明。评论即表明您同意这些条款。感谢您的配合与理解。
+{: .prompt-warning }
