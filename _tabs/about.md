@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
+<!--
 > **DECLARATION:** Welcome to my academic blog. I deeply appreciate your participation in sharing your views and opinions, as well as engaging in academic exchanges with me in the comment section below. Herein, I would like to clarify the following matters for your attention.
 >
 > - **User-Generated Content**: The content in the comments section, including text and images, is posted by visitors themselves. While I strive to maintain order in the comments area, it is not feasible to review every comment beforehand. Consequently, the blog and its author assume no responsibility for any content posted by users.
@@ -49,7 +49,7 @@ order: 4
 >
 > **请注意：**发表评论前，请先阅读[[ABOUT]](/about/)部分中的红色高亮声明。评论即表明您同意这些条款。感谢您的配合与理解。
 {: .prompt-warning }
-
+-->
 > **Content Notice:**
 > Parts of this blog were crafted and localized with the help of [ChatGPT](https://chat.openai.com) and [Wenxin Yiyan](https://yiyan.baidu.com).
 >

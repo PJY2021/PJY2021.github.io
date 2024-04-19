@@ -47,9 +47,12 @@ Although composite solid-state electrolytes (CSEs) are considered promising ioni
 
 - [材料学院王峰教授、牛津副教授团队在《Journal of the American Chemical Society》发表研究论文](https://cmse.buct.edu.cn/2024/0329/c4118a189783/page.htm)
 
+<!--
 ***
 
 > **Please Note:**Before commenting, review the DECLAEATION in the [[ABOUT]](/about/) section (highlighted in red). By commenting, you agree to these terms. Thank you for your cooperation and understanding.
 >
 > **请注意：**发表评论前，请先阅读[[ABOUT]](/about/)部分中的红色高亮声明。评论即表明您同意这些条款。感谢您的配合与理解。
 {: .prompt-warning }
+
+-->
